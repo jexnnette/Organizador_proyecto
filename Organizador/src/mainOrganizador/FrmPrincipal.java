@@ -102,7 +102,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
         jMenuItem4.setText("jMenuItem4");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Organizador De Tareas Galvan");
+        setTitle("Organizador De Tareas ");
         setBackground(new java.awt.Color(204, 255, 204));
         setUndecorated(true);
 
